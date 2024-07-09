@@ -32,7 +32,7 @@ function App() {
                         width="202px"
                         xmlSpace="preserve"
                         xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+                       
                         xmlnsXlink="http://www.w3.org/1999/xlink"
                       >
                         <defs>
@@ -691,7 +691,7 @@ function App() {
                       width="200px"
                       xmlSpace="preserve"
                       xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+                     
                       xmlnsXlink="http://www.w3.org/1999/xlink"
                     >
                       <defs>
@@ -1582,7 +1582,7 @@ function App() {
                             width="202px"
                             xmlSpace="preserve"
                             xmlns="http://www.w3.org/2000/svg"
-                            xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+                          
                             xmlnsXlink="http://www.w3.org/1999/xlink"
                           >
                             <defs>
