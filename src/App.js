@@ -65,7 +65,7 @@ function App() {
               <a
                 className="Button__ButtonWrapper-sc-5os99m-1 cKAVmg button chrome"
                 color="primary"
-                href="https://www.app.block2bit.com/auth"
+                href="https://b2bwallet.vercel.app/auth"
               >
                 <span>Sign in</span>
               </a>
@@ -80,7 +80,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 gSKwlC"
                           color="primary"
-                          href="https://www.app.block2bit.com/auth"
+                          href="https://b2bwallet.vercel.app/auth"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -214,7 +214,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 gSKwlC"
                           color="primary"
-                          href="https://www.web.block2bit.com/hc/en-us/"
+                          href="https://block2bit.vercel.app/hc/en-us/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -278,7 +278,7 @@ function App() {
                     <a
                       className="Button__ButtonWrapper-sc-5os99m-1 cKAVmg button chrome"
                       color="primary"
-                      href="https://www.app.block2bit.com/auth"
+                      href="https://b2bwallet.vercel.app/auth"
                     >
                       <span>Sign in</span>
                     </a>
@@ -317,7 +317,7 @@ function App() {
                         className="Button__ButtonWrapper-sc-5os99m-1 jIsBdl button chrome"
                         color="primary"
                         fontSize="20px"
-                        href="https://www.app.block2bit.com/auth/register"
+                        href="https://b2bwallet.vercel.app/auth/register"
                         rel="noopener"
                         style={{
                           textDecoration: "none",
@@ -1682,7 +1682,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="https://www.app.block2bit.com/auth"
+                            href="https://b2bwallet.vercel.app/auth"
                             style={{
                               textDecoration: "none",
                             }}
@@ -1767,7 +1767,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="https://www.web.block2bit.com/hc/en-us/requests/new?ticket_form_id=360001539191"
+                            href="https://block2bit.vercel.app/hc/en-us/requests/new?ticket_form_id=360001539191"
                             rel="noopener"
                             style={{
                               textDecoration: "none",
